@@ -22,4 +22,4 @@ Some code;
 </body>
 ```
 And an image of the editor;
-![Image of my editor](hw-2-text-editor.png)
+![Image of my editor](hw-2-text-editor.PNG)
